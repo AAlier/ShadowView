@@ -2,7 +2,8 @@
 # ShadowView
 
 ShadowView is a library for adding shadow effects to views in Android apps. It provides a simple way to add depth and dimension to your UI elements, making them look more visually appealing and engaging with smooth shadow that can be customized.
-![Screenshot](https://github.com/AAlier/ShadowView/blob/master/screenshot.png)<br><br>
+
+<img src="https://github.com/AAlier/ShadowView/blob/master/screenshot.png" alt="screenshot" width="260" height="500">
 
 ## Installation
 
