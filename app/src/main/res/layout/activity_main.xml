@@ -33,8 +33,11 @@
             android:layout_marginTop="32dp"
             app:backgroundColor="#A0FB45"
             app:radius="80dp"
+            android:pivotX="50"
+            android:pivotY="50"
             app:shadowColor="#FF0A0A"
-            app:shadowWidth="10dp" />
+            app:shadowWidth="10dp"
+            app:shadowAlpha="1" />
 
         <com.jack.shadowview.ShadowView
             android:id="@+id/shadowView2"
