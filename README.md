@@ -69,4 +69,4 @@ limitations under the License.
 
 ## Contribute
 
-If you'd like to contribute to ShadowView, feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/AAlier/ShadowView). We welcome bug reports, feature requests, and code contributions. Please read our [contributing guidelines](https://chat.openai.com/CONTRIBUTING.md) before submitting any code. Thank you for your interest in contributing to ShadowView!
+If you'd like to contribute to ShadowView, feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/AAlier/ShadowView). We welcome bug reports, feature requests, and code contributions. Please read our [contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) before submitting any code. Thank you for your interest in contributing to ShadowView!
