@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowView">
+        <attr name="shadowColor" format="color" />
+        <attr name="backgroundColor" />
+        <attr name="android:pivotX" />
+        <attr name="android:pivotY" />
+        <attr name="shadowAlpha" format="float" />
+        <attr name="radius" format="dimension" />
+        <attr name="shadowWidth" format="dimension" />
+    </declare-styleable>
+</resources>
