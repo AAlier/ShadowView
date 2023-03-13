@@ -28,8 +28,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var shadowColorView: View
     private lateinit var backgroundColorView: View
 
-    private var backgroundColor: Int = Color.CYAN
-    private var shadowColor: Int = Color.RED
+    private var backgroundColor: Int = Color.WHITE
+    private var shadowColor: Int = Color.parseColor("#B0B0CC")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
